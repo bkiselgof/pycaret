@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/Users/bkise/documents/repos/pycaret/pycaret/tutorials/mlruns/1/d3c92df6881a426590be64073f9c4e0f/artifacts
+end_time: 1619545278556
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: d3c92df6881a426590be64073f9c4e0f
+run_uuid: d3c92df6881a426590be64073f9c4e0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1619545277253
+status: 3
+tags: []
+user_id: bk
