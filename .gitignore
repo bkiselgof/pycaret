@@ -24,9 +24,10 @@ pycaret/tests/__pycache__/
 tutorials/logs.log
 /docs/build
 trained_models/
-*.ipynb
 *.pkl
 /mlruns.db
 /mlruns.db-journal
 mlflow_backend.py
 demo4.py
+examples/mlruns/
+/examples/mlruns
