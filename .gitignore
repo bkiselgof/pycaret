@@ -31,5 +31,8 @@ mlflow_backend.py
 demo4.py
 examples/mlruns/
 /examples/mlruns
+tutorials/mlruns/*
 tutorials/mlruns/
 /tutorials/mlruns
+tutorials/mlruns/2
+tutorials/mlruns/2/
